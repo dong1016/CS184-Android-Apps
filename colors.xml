@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <array name="paint_colors">
+        <item>#61e6ff</item>
+        <item>#ff1c1c</item>
+        <item>#008559</item>
+        <item>#8a0042</item>
+        <item>#9d00ac</item>
+        <item>#e5ff95</item>
+        <item>#4c9900</item>
+        <item>#00a34e</item>
+        <item>#aea400</item>
+        <item>#ca3000</item>
+        <item>#007fb6</item>
+        <item>#4200af</item>
+        <item>#ff35b9</item>
+        <item>#12ff3d</item>
+        <item>#7de500</item>
+        <item>#0300f7</item>
+        <item>#ff06eb</item>
+        <item>#1915ff</item>
+        <item>#6daf00</item>
+        <item>#ff98b1</item>
+        <item>#fbff15</item>
+        <item>#b2ff65</item>
+        <item>#ff3838</item>
+        <item>#8d0000</item>
+    </array>
+
+</resources>
